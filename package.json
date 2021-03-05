@@ -1,7 +1,7 @@
 {
-  "name": "booba",
+  "name": "Aqua",
   "version": "1.2.0",
-  "description": "Booba",
+  "description": "Aqua",
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
